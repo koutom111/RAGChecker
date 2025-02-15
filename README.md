@@ -15,3 +15,7 @@ Metrics like precision, recall, faithfulness, and hallucination are evaluated to
 - **Embeddings**: OpenAI and HuggingFace embedding models.
 - **Vector Stores**: Integration with FAISS (local), Pinecone (cloud), and Chroma (local/cloud).
 - **Evaluation**: Metrics exported to CSV for easy comparison.
+
+
+This notebook was developed in the scope of the European Union’s funded Project XR5.0 [GA
+101135209].
